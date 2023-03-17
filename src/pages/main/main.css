@@ -1,0 +1,17 @@
+.search-filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 2em;
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+
+@media (min-width: 600px) {
+  .search-filter {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2em;
+    margin-bottom: 2rem;
+  }
+}

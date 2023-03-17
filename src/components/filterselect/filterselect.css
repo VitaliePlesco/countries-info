@@ -1,0 +1,11 @@
+select {
+  width: 100%;
+  padding: 15px 15px 15px 15px;
+  background: hsl(209, 23%, 22%);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: 1.2rem;
+  margin-right: 15px;
+  border-right: 10px solid hsl(209, 23%, 22%);
+}
